@@ -21,10 +21,10 @@ Developted an Arduino project to simulate a car directions control.
  - Pin **11** as **OUTPUT**connected to the **Input 3** of the *L293D*
 
 ```C++
-    pinMode(8, OUTPUT)
-    pinMode(9, OUTPUT)
-    pinMode(10, OUTPUT)
-    pinMode(11, OUTPUT)
+    pinMode(8, OUTPUT);
+    pinMode(9, OUTPUT);
+    pinMode(10, OUTPUT);
+    pinMode(11, OUTPUT);
 ```
 
  - **Motor 1**:
