@@ -1,4 +1,4 @@
-# SCHRÖDINGER's CAT
+# CAR DIRECTIONS
 
 ## Description
 Developted an Arduino project to simulate a car directions control.
